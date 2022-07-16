@@ -1,7 +1,6 @@
 # Questão 2
 
-Execute o comando npm install
-Em seguida execute o comando npm start
+Execute o comando npm install , Em seguida execute o comando npm start
 
 ## App
 
